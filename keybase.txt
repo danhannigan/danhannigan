@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/danhannigan
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://danhannigan.me
+  * I am danhannigan (https://keybase.io/danhannigan) on keybase.
+  * I have a public key with fingerprint 9F3F 3F37 6962 6DB0 C771  A041 6330 E46A 362A 8261
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f5ea4093d650dbf42ae3962bfb627f4f4a0f8c18437e0d8be6a9a6961e3fa6ce0a",
+      "fingerprint": "9f3f3f3769626db0c771a0416330e46a362a8261",
+      "host": "keybase.io",
+      "key_id": "6330e46a362a8261",
+      "kid": "0101776de45f52741799c536e378b01785830531e2139a34a3b9d510e306e4687ca70a",
+      "uid": "21d2ece745b3f0ee0dab2438c4f30c19",
+      "username": "danhannigan"
+    },
+    "service": {
+      "hostname": "danhannigan.me",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1519610140,
+  "expire_in": 157680000,
+  "prev": "2403d375d28446b9e0bf11a3e4a1c7c3109c51779de0a53025a20471e4b264f9",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMNsAnicbVJtUBVVGL6AOYAQEjlj0ARt3JsiMWf37OeNEFNHxGKEaMSGgc7unr1s
+4N7LvZcLhAioySjx46p8ODJUKsNoDJQyiVGBfIwhJhE2fjQIotFYzmDhUBBIu0z+
+qnN+nDnv+7zPed7nvH3BfqZAHwnce4+N2Yt8Bi82FJjeOaI+X0KIdrmYsJYQuXjp
+wHkydrmzc1WZsBKApIDCYEQDAcosA2RRoSmEocBSoiKyFKfQCo2AwkskT0MOA5kX
+MYsExAosiaGCWAkDRMQSiqrZsNPhVDW3Tiso0NicjqJYWQQSx5EI0CQLIcA0iyBL
+IZ5iSb0wx+4yKnRxInLhONWux/RL9pK8/8E/0Q1IjmNlTDMKQ3E0yQmCxEAWQ44X
+9RTP8BAwkMQUCQUEaQRFQWZIgCFgdUKekxC3pLtgiY4iZQpLmKMZESoA620ikaIh
+L9EKBBIpGEAXdmpoF9bRMtJykKapNqQRpbGEnvCoEja8NZr5LyhOD8QSDqfdbZfs
+eXoux+12WI1Sd7HDwBZiMftflmxR1WTdS73Ag50u1a4RVlJHSm7VoCUZUjcekDSI
+JXCRQ3XibNVAMBzLA30Zz2CP0RENoAw5RqZ4mmZFAQNRIUkEMY1IiZMgCXS/dAsF
+Wf8/BgKKQRSgORLTIsXSitGxC+drdp2b03Uim87pUm0achc4MVHaczFzmckn0LT8
+KV9jyEyBASufjN6h+pDFrWXiwqWrYSHrxkJu7kvodiXIPs1rtuc1leUvazwyGOON
+GkzIm7/dNJl8xn/We+nk2a7q034rTN9e9h6t+bjdW5t1erip2f/P5J7jq34c3yO9
+dXtqb8mx3m0nyiZiZi8PH5xzbL93ODLl7WB76+czHdElGfV/8A9yFn7tyKoPbVkM
+2LGrVc6y1V74/fzu+hnzzr46x+iNu5WHMtZ+2mU+8/6t9PjNnfNpq7sn5h+mDM03
+PhfO2iP6axq99WiLb+LJGWtEdWUyHxo0NkKbM3tG6iKvL/reuPN4mKmJ2RC6drJy
+0+46bbO5P9iluQdGfVMTY+YK5zLP7zex5cfTu9B0WMToRHxY9W97HvW/dCWpN3fE
+k1c8mlRRu7rU3Jf5TNrGovLvH0ztiA9e06bF/T29iXq4sy1j3XhQe2J55raGoCo8
+s+Joz/rJz+xFf51L9289G5zcP3EuvJK5Vc0EtVzYEpn7gTe6+I2khZHpyprr2s1r
+s6kdB/OrvrKMeV4Y6OvDQturQ4VV3XWtJXzzwMzh6LK0omP7U/q//sHxkeWqJO67
+v6rtFXGg+HXc4nzTcq0lMTH/Sn6q2QqhVbDEffPd1gOvld+PmIr+JPbdlUMnQi1P
+B7z4GFsX1tvdfuG/bGAbHrWfWs5+EfLy+E8BKc0HohKe7XXZ7vALs8xdC7fxVE2F
+p+LDqM6Gn7/s/AeOo8At
+=YsH8
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/danhannigan
+
+==================================================================
